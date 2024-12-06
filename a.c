@@ -21,4 +21,5 @@ int main(){
         printf("%d\n",F[i]);
     }
     fclose(fptr);
+    //git test
 }
