@@ -21,4 +21,5 @@ int main(){
         printf("%d\n",F[i]);
     }
     fclose(fptr);
+    //git check if ignore file goes to next version or not
 }
