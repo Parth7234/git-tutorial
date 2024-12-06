@@ -21,7 +21,6 @@ int main(){
         }
     }
     fclose(fptr);
-    //git test
 
 
 }
