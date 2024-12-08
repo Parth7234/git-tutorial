@@ -22,4 +22,6 @@ int main(){
     }
     fclose(fptr);
     //git check if ignore file goes to next version or not
+    //gitHUB check
+    //github check 2
 }
